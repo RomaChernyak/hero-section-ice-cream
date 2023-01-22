@@ -372,6 +372,9 @@ body {
     .how-its-made {
         font-size: 14px;
         line-height: 1.2193;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     .hero-lorem {
